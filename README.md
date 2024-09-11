@@ -1,4 +1,4 @@
-# Paper_SemanticPrimateVisionMachines
+# Paper_VisualSemanticProcessing
 
 To be updated.
 
